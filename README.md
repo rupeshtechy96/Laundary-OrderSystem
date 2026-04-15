@@ -33,8 +33,8 @@ A full-stack laundry management web application where customers can place orders
 🤖 AI Usage
 
 AI tools (like ChatGPT) were used for:
-Debugging backend errors
-Improving UI/UX components
+- Debugging backend errors
+- Improving UI/UX components
 ---
 📌 Notes
 First order discount is applied automatically
