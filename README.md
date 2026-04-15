@@ -1,6 +1,10 @@
 # 🧺 Mini Laundry Order System
 
+Website Link --> https://laundary-order-system.vercel.app/
+
 A full-stack laundry management web application where customers can place orders and admins can manage pricing, schedule, and order status.
+- Frontend(vercel) --> https://laundary-order-system.vercel.app/
+- Backend(Render) --> https://laundary-ordersystem.onrender.com/
 
 ---
 
@@ -20,7 +24,21 @@ A full-stack laundry management web application where customers can place orders
 - Role-based access control
 
 ---
+### ScreenShots
 
+
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d5ea6b12-5c70-473f-a229-1524e06a33f1" />
+
+<br><br>
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/f036954c-22d4-464b-95de-49ee45a042df" />
+
+
+
+
+
+---
 ## 💻 Tech Stack
 
 - **Frontend:** React (Vite)
