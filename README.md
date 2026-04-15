@@ -1,30 +1,56 @@
-# Mini Laundry Order System
+# 🧺 Mini Laundry Order System
 
-A simple laundry order management system built with React, Node.js, Express, and MongoDB.
+A full-stack laundry management web application where customers can place orders and admins can manage pricing, schedule, and order status.
 
-## Features
+---
 
-- Create laundry order
-- Auto calculate total bill
-- Generate unique order ID
-- View all orders
-- Filter orders by status
-- Search orders by customer name or phone
-- Update order status
-- Dashboard for total orders, revenue, and status counts
+## 🚀 Features
 
-## Tech Stack
+### 👤 Customer
+- Register & Login
+- Place laundry orders (single & bulk items)
+- Select garment types from dropdown (no manual errors)
+- Choose delivery type (Self / Pickup)
+- View order history and status
 
-- Frontend: React + Vite
-- Backend: Node.js + Express
-- Database: MongoDB Atlas
-- API Testing: Postman
+### 🛠️ Admin
+- Manage garment pricing
+- View all customer orders
+- Update order status (Pending → Delivered)
+- Role-based access control
 
-## Project Structure
+---
 
-```bash
-mini-laundry-order-system/
-│
-├── frontend/
-├── backend/
-└── README.md
+## 💻 Tech Stack
+
+- **Frontend:** React (Vite)
+- **Backend:** Node.js, Express
+- **Database:** MongoDB Atlas
+- **Authentication:** JWT
+
+---
+
+🤖 AI Usage
+
+AI tools (like ChatGPT) were used for:
+Debugging backend errors
+Improving UI/UX components
+---
+📌 Notes
+First order discount is applied automatically
+Pricing must be added by admin before placing orders
+Role-based access ensures secure operations
+
+---
+🌐 Future Improvements
+Payment integration
+Notifications (email/SMS)
+Order tracking timeline UI
+Admin dashboard analytics
+
+--
+Author
+- Developed by Rupesh Patel
+
+
+
